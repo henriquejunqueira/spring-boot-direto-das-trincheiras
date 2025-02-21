@@ -9,3 +9,4 @@
 - Aula 06 - GetMapping e RestController
 - Aula 07 - RequestMapping e Servlet Context
 - Aula 08 - Spring Beans e ComponentScan
+- Aula 09 - Exercício 01 - GetMapping
